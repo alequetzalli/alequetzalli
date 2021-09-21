@@ -5,6 +5,8 @@
 - 👩🏻‍🤝‍👩🏽 **I’m looking to collaborate on ...** [AsyncAPI Docs](https://www.asyncapi.com/docs/getting-started)! 
 - 📫 **How to reach me: ...** My DMs are always open in both [Twitter](https://twitter.com/QuetzalliAle) and [LinkedIN](https://www.linkedin.com/in/alejandra-quetzalli/). 
 - ⚡ **Fun fact...** Soy Latina. I was born and raised in México 🇲🇽. I moved to Seattle and got into tech by accident in my mid-twenties and here we are. 
+- 🐕‍🦺 **I have a medical service dog...** Her name is Canela! (Spanish for cinnamon.)
+- 🧠 **I'm autistic...** I'm neurodiverse, yay! 😁 
 
 
 ### What I do for AsyncAPI Docs ✨✨
