@@ -1,7 +1,7 @@
 ### Hola, soy Alejandra Quetzalli 🦄
 
 - 📄 **Working on ...** I’m a Senior Technical Writer 👩🏻‍💻 hired by [Postman](https://www.postman.com/alejandra-quetzalli) to focus solely on the Open-Source (OSS) [AsyncAPI initiative](https://www.asyncapi.com/), where I’m the primary owner of AsyncAPI Dev Docs.
-- 💬 **Ask me about ...** How you can contribute to the OSS [AsyncAPI initiative](https://www.asyncapi.com/) and/or our [documentation](https://www.asyncapi.com/docs/getting-started). We accept doc PRs from the community too! 😀👍🏽
+- 💬 **Ask me about ...** How you can [contribute to the OSS AsyncAPI initiative](https://dev.to/alejandra_quetzalli/how-to-contribute-to-oss-asyncapi-initiative-dh7) and/or our [documentation](https://www.asyncapi.com/docs/getting-started). We accept doc PRs from the community too! 😀👍🏽
 - 👩🏻‍🤝‍👩🏽 **I’m looking to collaborate on ...** [AsyncAPI Docs](https://www.asyncapi.com/docs/getting-started)! 
 - 📫 **How to reach me: ...** My DMs are always open in both [Twitter](https://twitter.com/QuetzalliAle) and [LinkedIN](https://www.linkedin.com/in/alejandra-quetzalli/). 
 - ⚡ **Fun fact...** Soy Latina. I was born and raised in México 🇲🇽. I moved to Seattle and got into tech by accident in my mid-twenties and here we are. 
