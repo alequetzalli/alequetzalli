@@ -1,5 +1,6 @@
 ### Hola, soy Alejandra Quetzalli 🦄
 
+- 📖 I'm the upcoming **author** (2022) of the book titled _"Designing Developer Documentation as a Product,"_ which will be published by the [Apress Publishing Company](https://www.apress.com/us). 
 - 📄 **Working on ...** I’m the primary owner of **AsyncAPI Dev Docs and Education** 👩🏻‍💻 , hired by [Postman](https://www.postman.com/alejandra-quetzalli) to focus solely on the Open-Source (OSS) [AsyncAPI initiative](https://www.asyncapi.com/). Because I work for an OSS project, I also have the honor of being deeply involved in Community Building for AsyncAPI.
 - 👊🏽 **I'm a member of the AsyncAPI Technical Steering Commitee (TSC)...** The [Async API TSC](https://www.asyncapi.com/community/tsc) is responsible for the oversight of the AsyncAPI Initiative. The TSC helps make decisions on a higher level, or when maintainers cannot find a consensus. Maintainers (i.e. committers) can make decisions at a repository/project level.
 - 💬 **Ask me about ...** How you can [contribute to the OSS AsyncAPI initiative](https://dev.to/alejandra_quetzalli/how-to-contribute-to-oss-asyncapi-initiative-dh7) and/or our [documentation](https://www.asyncapi.com/docs/getting-started). We accept doc PRs from the community too! 😀👍🏽
