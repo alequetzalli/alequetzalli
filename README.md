@@ -1,7 +1,21 @@
-### Hola, soy Alejandra Quetzalli 🦄
+# 📖♻️ Creator of docs-as-ecosystem & published author (2023) 
+Visit the [docs-as-ecosystem book website and subscribe to the book newsletter to get notified when preordering the book is available in B&N, Amazon, and independent book stores.](https://www.designingdeveloperdocsasaproduct.com/) 
 
-- 📖 **I'm the upcoming author** (2023) of the book titled _["Designing Developer Documentation as a Product,"](https://www.alejandraquetzalli.com/book-designing-developer-docs-as-a-product)_ which will be published by the [Apress Publishing Company](https://www.apress.com/us). 
-- 📄 **Working on ...** I’m the primary owner of **AsyncAPI Dev Docs and Education** 👩🏻‍💻 , hired by [Postman](https://www.postman.com/alejandra-quetzalli) to focus solely on the Open-Source (OSS) [AsyncAPI initiative](https://www.asyncapi.com/). Because I work for an OSS project, I also have the honor of being deeply involved in Community Building for AsyncAPI.
+Quetzalli's approach to engineering documentation inspired her to coin the new term "**docs-as-ecosystem**." 
+
+She believes that "docs-as-ecosystem" represents a more comprehensive and collaborative approach to documentation development than "docs-as-code" because it recognizes that documentation is more than just code. Docs involve technical writing, design, community feedback, community management, accessibility, SEO, UX, and today… even Artificial Intelligence tools! The word ecosystem promotes a paradigm where documentation is treated as a complex and dynamic system that must be managed and nurtured.
+
+Here are some reasons for the software developer community to adopt "docs-as-ecosystem":
+1. **Proposes a more holistic and community-centered approach:** The term "docs-as-ecosystem" recognizes that documentation is not just a set of markdown files or code snippets but an ecosystem that needs to be managed and nurtured. The term "docs-as-code" has been widely adopted recently, but it may not fully capture the complexity and diversity of documentation development. The term "docs-as-ecosystem" aligns with the industry trend towards a more holistic and community-centered approach to documentation development.
+2. **Encourages collaboration:** The term "docs-as-ecosystem" acknowledges that documentation development involves different roles and stakeholders, such as technical writers, designers, developers, community members, and beyond. By adopting this term, the software developer community can encourage collaboration across diverse stakeholders and facilitate the creation of high-quality documentation.
+3. **Emphasizes the importance of retrieving and incorporating community feedback:** The term "docs-as-ecosystem" highlights the importance of retrieving and integrating community feedback in documentation development. It recognizes that documentation is about providing information and meeting community needs and preferences.
+
+
+--- 
+
+## Hola, soy Alejandra Quetzalli 🦄
+
+- 📄 **Working on ...** I’m a core contributor and owner of **AsyncAPI Dev Docs and Education** 👩🏻‍💻 , hired by [Postman](https://www.postman.com/alejandra-quetzalli) to focus solely on the Open-Source (OSS) [AsyncAPI initiative](https://www.asyncapi.com/). Because I work for an OSS project, I also have the honor of being deeply involved in Community Building for AsyncAPI.
 - 👊🏽 **I'm a member of the AsyncAPI Technical Steering Committee (TSC)...** The [Async API TSC](https://www.asyncapi.com/community/tsc) is responsible for the oversight of the AsyncAPI Initiative. The TSC helps make decisions on a higher level, or when maintainers cannot find a consensus. Maintainers (i.e. committers) can make decisions at a repository/project level.
 - 💬 **Ask me about ...** How you can [contribute to the OSS AsyncAPI initiative](https://dev.to/alejandra_quetzalli/how-to-contribute-to-oss-asyncapi-initiative-dh7) and/or our [documentation](https://www.asyncapi.com/docs/getting-started). We accept doc PRs from the community too! 😀👍🏽
 - 👩🏻‍🤝‍👩🏽 **I’m looking to collaborate on ...** [AsyncAPI Docs](https://www.asyncapi.com/docs/getting-started) and Learning materials! 
