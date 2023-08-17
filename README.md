@@ -1,5 +1,5 @@
 # 📖♻️ Creator of docs-as-ecosystem & published author (2023) 
-Visit the [docs-as-ecosystem book website and subscribe to the book newsletter to get notified when preordering the book is available in B&N, Amazon, and independent book stores.](https://www.designingdeveloperdocsasaproduct.com/) 
+Visit the [docs-as-ecosystem book website; my book is available in B&N, Amazon, and independent book stores.](https://www.docsasecosystem.com/) 
 
 Quetzalli's approach to engineering documentation inspired her to coin the new term "**docs-as-ecosystem**." 
 
@@ -10,7 +10,7 @@ Here are some reasons for the software developer community to adopt "docs-as-eco
 2. **Encourages collaboration:** The term "docs-as-ecosystem" acknowledges that documentation development involves different roles and stakeholders, such as technical writers, designers, developers, community members, and beyond. By adopting this term, the software developer community can encourage collaboration across diverse stakeholders and facilitate the creation of high-quality documentation.
 3. **Emphasizes the importance of retrieving and incorporating community feedback:** The term "docs-as-ecosystem" highlights the importance of retrieving and integrating community feedback in documentation development. It recognizes that documentation is about providing information and meeting community needs and preferences.
 
-<img width="600" alt="Screen Shot 2023-02-25 at 9 15 11 AM" src="https://user-images.githubusercontent.com/19964402/221425225-b9c3f6e5-b922-4b86-b631-7779b72cf8e8.png">
+
 
 
 --- 
