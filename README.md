@@ -10,8 +10,7 @@ Here are some reasons for the software developer community to adopt "docs-as-eco
 2. **Encourages collaboration:** The term "docs-as-ecosystem" acknowledges that documentation development involves different roles and stakeholders, such as technical writers, designers, developers, community members, and beyond. By adopting this term, the software developer community can encourage collaboration across diverse stakeholders and facilitate the creation of high-quality documentation.
 3. **Emphasizes the importance of retrieving and incorporating community feedback:** The term "docs-as-ecosystem" highlights the importance of retrieving and integrating community feedback in documentation development. It recognizes that documentation is about providing information and meeting community needs and preferences.
 
-
-![apress-marketing-docsbook](https://github.com/alequetzalli/alequetzalli/assets/19964402/6ec702bf-5b36-429f-a321-270001bc8a8f)
+<img width="900" src="https://github.com/alequetzalli/alequetzalli/assets/19964402/86c46915-a1f1-4b37-93bd-08773fa0f8ce">
 
 
 --- 
